@@ -1,8 +1,9 @@
-using Distributions
+using Distributions, LinearAlgebra
 
 function rowenhorst(mean, uncond_sd, rho, num_states)
     """
-    Rowenhort's method to approximate AR(1) process with Markov chain
+    Rowenhort's method to approximate AR(1) process with Markov chain (ln y_t = mu + rho y_{t-1} + e_t)
+    Note: this function also normalizes effective labour to one.
     
     #### Fields
     
