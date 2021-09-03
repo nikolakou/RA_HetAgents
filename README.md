@@ -27,4 +27,4 @@ These are the codes you can **expect** to find in the repository in the near fut
 4. Solving dynamic programming problems with discrete choice
 5. A model with default on unsecured debt
 6. Continuous time methods: (i) obtaining the HJB and KFE equation, (ii) the Aiyagari model with transitional dynamics
-7. *Time permitting* continuous time: (i) using the master equation to obtain transitional dynamics, continuous time with aggregate shocks using projection methods
+7. *Time permitting* continuous time: (i) using the master equation to obtain transitional dynamics, (ii) continuous time with aggregate shocks using projection methods
