@@ -28,3 +28,5 @@ These are the codes you can **expect** to find in the repository in the near fut
 5. A model with default on unsecured debt
 6. Continuous time methods: (i) obtaining the HJB and KFE equation, (ii) the Aiyagari model with transitional dynamics
 7. *Time permitting* continuous time: (i) using the master equation to obtain transitional dynamics, (ii) continuous time with aggregate shocks using projection methods
+
+***IMPORTANT***: if you find the code to be unclear, you find any errors, or believe there is a way to make it more efficient, I would be grateful if you could send me a quick e-mail at gn3@princeton.edu 
