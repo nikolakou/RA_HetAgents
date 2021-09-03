@@ -16,6 +16,6 @@ These are the codes you can *currently* find in the repository:
 10. "Aiyagari_no_labor.ipynb": solving for the general equilibrium steady-state of the Aiyagari model with no labor supply
 12. "Aiyagari_with_labor.ipynb": solving for the general equilibrium steady-state of the Aiyagari model with labor supply choice
 13. "Krussel_Smith_SSJ.ipynb": obtaining transitional dynamics in the Krussel-Smith model using the sequence-space Jacobian method
-14. 1.  "HANK.ipynb": the main file that (i) solves a HANK model, (ii) calibrates the steady-state, (iii) obtains transitional dynamics, and (iv) simulates an economy with aggregate shocks using the [BKM](https://ideas.repec.org/a/eee/dyncon/v89y2018icp68-92.html) (2018) method
-2. "HANK_supplement.ipynb": Python code that uses Auclert et al.'s (2021) code to find Jacobians of simple blocks, accumulate, and obtain the general equilibrium Jacobians.
+14. a.  "HANK.ipynb": the main file that (i) solves a HANK model, (ii) calibrates the steady-state, (iii) obtains transitional dynamics, and (iv) simulates an economy with aggregate shocks using the [BKM](https://ideas.repec.org/a/eee/dyncon/v89y2018icp68-92.html) (2018) method
+  b. "HANK_supplement.ipynb": Python code that uses Auclert et al.'s (2021) code to find Jacobians of simple blocks, accumulate, and obtain the general equilibrium Jacobians.
 
