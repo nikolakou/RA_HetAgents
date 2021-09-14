@@ -25,7 +25,7 @@ These are the codes you can **expect** to find in the repository in the near fut
 2. The Aiyagari model with aggregate shocks using the Krusell-Smith method (no labor supply choice)
 3. The Aiyagari model with aggregate shocks using the Krusell-Smith method (with labor supply choice OR bond choice)
 4. The endogenous gridpoint method with multiple choice variables
-5. Solving dynamic programming problems with discrete choice + concavifying the value function via uncertainty
+5. Solving dynamic programming problems with discrete choice + concavifying the value function via uncertainty (probably via i.i.d. utility shocks)
 7. A model with default on unsecured debt
 8. *Time permitting* continuous time: (i) using the master equation to obtain transitional dynamics, (ii) continuous time with aggregate shocks using projection methods
 
