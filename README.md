@@ -18,10 +18,11 @@ These are the codes you can **currently** find in the repository:
 13. "Krusell_Smith_SSJ.ipynb": obtaining transitional dynamics in the Krussel-Smith model using the sequence-space Jacobian method
 14. 1.  "HANK.ipynb": the main file that (i) solves a HANK model, (ii) calibrates the steady-state, (iii) obtains transitional dynamics, and (iv) simulates an economy with aggregate shocks using the [BKM](https://ideas.repec.org/a/eee/dyncon/v89y2018icp68-92.html) (2018) method
     2. "HANK_supplement.ipynb": Python code that uses Auclert et al.'s (2021) code to find Jacobians of simple blocks, accumulate, and obtain the general equilibrium Jacobians.
+15. "Aiyagari_continuous_time.ipynb" Solving the HJB, KFE, and obtaining the market clearing interest rate in the Aiyagari model where income follows an Ornstein-Uhlenbeck process.
 
 These are the codes you can **expect** to find in the repository in the near future:
 
-1. Continuous time: (i) obtaining the HJB and KFE equation, (ii) the Aiyagari model with transitional dynamics
+1. Continuous time: (i) the Aiyagari model with transitional dynamics (shooting algorithm)
 2. The Aiyagari model with aggregate shocks using the Krusell-Smith method (no labor supply choice)
 3. The Aiyagari model with aggregate shocks using the Krusell-Smith method (with labor supply choice OR bond choice)
 4. The endogenous gridpoint method with multiple choice variables
